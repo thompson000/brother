@@ -1,0 +1,12 @@
+backend/.env
+backend/node_modules/
+node_modules/
+*.db
+*.log
+cookie.txt
+login.json
+me.json
+me2.json
+stats.json
+stats2.json
+.DS_Store
